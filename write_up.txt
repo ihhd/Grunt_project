@@ -1,0 +1,16 @@
+Project Name : Building an Application Using Grunt Build Tool
+
+
+Your team is developing an application that serves static resources such as images, CSS, JavaScript and more. During the requirement analysis phase, your team has mutually agreed on the following conditions:
+
+    1. If and when there are any changes made in any of the application files during the time of development, the browser must reload the index.html page automatically.
+    2. The application should have low latency and response time.
+    3. The application must have the backup for CSS files.
+
+>>  The folllowing tools should be required
+
+   The tools required:
+
+  >> Netbeans IDE
+  >> Grunt.js
+  >> Live reload

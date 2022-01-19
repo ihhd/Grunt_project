@@ -1,0 +1,21 @@
+The following commands are used to install the plugins to the respective project.
+
+01. npm install grunt --save-dev // ( to install grunt into our machine)
+02. npm install grunt-autoprefixer --save-dev // (to help optimize production and do a lot for you)
+03. npm install grunt-contrib-copy --save-dev // (o control the file contents that are copied)
+04. npm install grunt-contrib-cssmin --save-dev // (to compress CSS files.)
+05. npm install grunt-contrib-imagemin --save-dev // (to optimize the image)
+06. npm install grunt-contrib-jshint --save-dev // (to help detect low-quality code)
+07. npm install grunt-contrib-uglify --save-dev // (to generate JSON cache file)
+08. npm install grunt-contrib-watch --save-dev // to serve static sites with grunt)
+09. npm install grunt-newer --save-dev // (to add a new task to the existing grunt)
+10. npm install grunt-contrib-concurrent --save-dev // ( to improve performance and to execute multile tasks concurrently)
+11. npm install load-grunt-tasks --save-dev  // ( to load the multiple tasks at the same time)
+12. npm install qunit --save-dev // (for testing the js code)
+13. npm install grunt-contrib-qunit --save-dev (for testing the javascript code)
+14. npm install grunt-contrib-connect --save-dev // (to connect with the server)
+15. npm install grunt-behat --save-dev // ( to check the behaviour)
+16. npm install grunt-contrib-compress --save-dev // (to compress files and folders.)
+17. npm install grunt-git --save-dev
+18. npm install grunt-githooks --save-dev // (for binding)
+19. npm install grunt-rsync --save-dev
